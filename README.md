@@ -5,4 +5,6 @@ These files are named for each workshop that will take place during the term. Yo
 
 - Workshop 1: Getting Started with Python in Jupyter
 - Workshop 2: Working with Data and Applying Statistics
+- Workshop 3: Unsupervised Machine Learning
+- Workshop 4: Supervised Machine Learning
 
