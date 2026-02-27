@@ -7,6 +7,7 @@ These files are named for each workshop that will take place during the term. Yo
 - Workshop 2: Working with Data and Applying Statistics
 - Workshop 3: Unsupervised Machine Learning
 - Workshop 4: Supervised Machine Learning
-- Workshop 5: Coursework 1 (Stats/Unsupervised Machine Learning)
+- Workshop 5: Coursework 1
 - Workshop 6: Cheminformatics
+- Workshop 7: Coursework 2
 
